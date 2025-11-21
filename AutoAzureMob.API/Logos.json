@@ -1,0 +1,59 @@
+[
+  {
+    "Id": 1,
+    "Url": "https://stoautoazurprod.blob.core.windows.net/autoazur-files/channel-logos/shop.png"
+  },
+  {
+    "Id": 2,
+    "Url": "https://stoautoazurprod.blob.core.windows.net/autoazur-files/channel-logos/meli.png"
+  },
+  {
+    "Id": 4,
+    "Url": "https://stoautoazurprod.blob.core.windows.net/autoazur-files/channel-logos/amazon.png"
+  },
+  {
+    "Id": 5,
+    "Url": "https://stoautoazurprod.blob.core.windows.net/autoazur-files/channel-logos/EBay.svg"
+  },
+  {
+    "Id": 6,
+    "Url": "https://stoautoazurprod.blob.core.windows.net/autoazur-files/channel-logos/elektra.png"
+  },
+  {
+    "Id": 7,
+    "Url": "https://stoautoazurprod.blob.core.windows.net/autoazur-files/channel-logos/claroshop.png"
+  },
+  {
+    "Id": 8,
+    "Url": "https://stoautoazurprod.blob.core.windows.net/autoazur-files/channel-logos/walmart.png"
+  },
+  {
+    "Id": 9,
+    "Url": "https://stoautoazurprod.blob.core.windows.net/autoazur-files/channel-logos/tiendanube.png"
+  },
+  {
+    "Id": 10,
+    "Url": "https://stoautoazurprod.blob.core.windows.net/autoazur-files/channel-logos/sears.png"
+  },
+  {
+    "Id": 11,
+    "Url": "https://stoautoazurprod.blob.core.windows.net/autoazur-files/channel-logos/coppel.png"
+  },
+  {
+    "Id": 12,
+    "Url": "https://stoautoazurprod.blob.core.windows.net/autoazur-files/channel-logos/liverpool.png"
+  },
+  {
+    "Id": 14,
+    "Url": "https://stoautoazurprod.blob.core.windows.net/autoazur-files/channel-logos/shopify.png"
+  },
+  {
+    "Id": 15,
+    "Url": "https://stoautoazurprod.blob.core.windows.net/autoazur-files/channel-logos/shopee.png"
+  },
+  {
+    "Id": 16,
+    "Url": "https://stoautoazurprod.blob.core.windows.net/autoazur-files/channel-logos/woocommerce.png"
+  }
+
+]

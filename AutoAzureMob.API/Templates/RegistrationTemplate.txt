@@ -1,0 +1,335 @@
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+
+<head>
+  <title> </title>
+  <!--[if !mso]><!-- -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <!--<![endif]-->
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style type="text/css">
+    #outlook a {
+      padding: 0;
+    }
+
+    .ReadMsgBody {
+      width: 100%;
+    }
+
+    .ExternalClass {
+      width: 100%;
+    }
+
+    .ExternalClass * {
+      line-height: 100%;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+
+    table,
+    td {
+      border-collapse: collapse;
+      mso-table-lspace: 0pt;
+      mso-table-rspace: 0pt;
+    }
+
+    img {
+      border: 0;
+      height: auto;
+      line-height: 100%;
+      outline: none;
+      text-decoration: none;
+      -ms-interpolation-mode: bicubic;
+    }
+
+    p {
+      display: block;
+      margin: 13px 0;
+    }
+  </style>
+  <!--[if !mso]><!-->
+  <style type="text/css">
+    @media only screen and (max-width:480px) {
+      @-ms-viewport {
+        width: 320px;
+      }
+      @viewport {
+        width: 320px;
+      }
+    }
+  </style>
+  <!--<![endif]-->
+  <!--[if mso]>
+        <xml>
+        <o:OfficeDocumentSettings>
+          <o:AllowPNG/>
+          <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+        </xml>
+        <![endif]-->
+  <!--[if lte mso 11]>
+        <style type="text/css">
+          .outlook-group-fix { width:100% !important; }
+        </style>
+        <![endif]-->
+  <!--[if !mso]><!-->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,700" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700" rel="stylesheet" type="text/css">
+  <style type="text/css">
+    @import url(https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,700);
+    @import url(https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700);
+  </style>
+  <!--<![endif]-->
+  <style type="text/css">
+    @media only screen and (min-width:480px) {
+      .mj-column-per-100 {
+        width: 100% !important;
+        max-width: 100%;
+      }
+    }
+  </style>
+  <style type="text/css">
+    @media only screen and (max-width:480px) {
+      table.full-width-mobile {
+        width: 100% !important;
+      }
+      td.full-width-mobile {
+        width: auto !important;
+      }
+    }
+  </style>
+  <style type="text/css">
+    .imgIWdth img {
+      width: 500px !important;
+    }
+
+    *[class~=show_on_mobile] {
+      display: none !important;
+    }
+
+    @media only screen and (max-width: 480px) {
+      *[class~=hide_on_mobile] {
+        display: none !important;
+      }
+      *[class~=show_on_mobile] {
+        display: block !important;
+      }
+    }
+
+    .dis-inblk {
+      display: inline-block;
+    }
+  </style>
+</head>
+
+<body>
+  <div style="">
+    <!--[if mso | IE]>
+      <table
+         align="center" border="0" cellpadding="0" cellspacing="0" class="" style="width:600px;" width="600"
+      >
+        <tr>
+          <td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;">
+      <![endif]-->
+    <div style="Margin:0px auto;max-width:600px;">
+      <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+        <tbody>
+          <tr>
+            <td style="direction:ltr;font-size:0px;padding:20px 0;text-align:center;vertical-align:top;">
+              <!--[if mso | IE]>
+                  <table role="presentation" border="0" cellpadding="0" cellspacing="0">
+                
+        <tr>
+      
+            <td
+               class="" style="vertical-align:top;width:600px;"
+            >
+          <![endif]-->
+              <div class="mj-column-per-100 outlook-group-fix" style="font-size:13px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%">
+                  <tr>
+                    <td align="left" style="font-size:0px;padding:10px 25px;word-break:break-word;">
+                      <div style="font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:13px;line-height:1;text-align:left;color:#000000;"> <img src="http://autoazur.azurewebsites.net/Content/Theme/images/logo.png" style="width:80px; display:inline-block;vertical-align: middle " /> <img src="https://www.autoazur.com/img/logo_letra.png" style="width: 140px;display:inline-block;vertical-align: middle;margin-left: 10px;"
+                        /> </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td style="font-size:0px;padding:10px 25px;word-break:break-word;">
+                      <p style="border-top:solid 4px #007FFF;font-size:1;margin:0px auto;width:100%;"> </p>
+                      <!--[if mso | IE]>
+        <table
+           align="center" border="0" cellpadding="0" cellspacing="0" style="border-top:solid 4px #007FFF;font-size:1;margin:0px auto;width:550px;" role="presentation" width="550px"
+        >
+          <tr>
+            <td style="height:0;line-height:0;">
+              &nbsp;
+            </td>
+          </tr>
+        </table>
+      <![endif]-->
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left" style="font-size:0px;padding:10px 25px;word-break:break-word;">
+                      <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;" class="full-width-mobile">
+                        <tbody>
+                          <tr>
+                            <td style="width:550px;" class="full-width-mobile"> <img height="auto" src="https://autoazurfiles.blob.core.windows.net/email-templates/e_template1.jpg" style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;" width="550" /> </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="center" style="font-size:0px;padding:10px 25px;word-break:break-word;">
+                      <div style="font-family:Open Sans;font-size:25px;font-weight:500;line-height:1;text-align:center;color:#007FFF;"> Gracias por Registrarse! </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left" style="font-size:0px;padding:10px 25px;word-break:break-word;">
+                      <div style="font-family:Open Sans;font-size:13px;line-height:1;text-align:left;color:#000000;">
+                        <p style="line-height: 21px"> El equipo <strong>AUTOAZUR</strong>, te da la bienvenida a la mejor herramienta de ventas en línea en México, te invitamos a que conozcas nuestros módulos, diseñados para optimizar la gestión de tus cuentas en los diferente marketplaces. </p>
+                        <p style="margin:0; line-height: 21px;">
+                        A continuación encontraras tus datos de acceso, nuestro equipo queda a tus órdenes para apoyarte en el uso de la herramienta, ingresa con tus credenciales, selecciona “PROGRAMAR CAPACITACIÓN” y te apoyaremos en la conexión de tu cuenta y primer capacitación. </p>
+                      </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left" class="hide_on_mobile" style="font-size:0px;padding:10px 25px;word-break:break-word;">
+                      <table cellpadding="0" cellspacing="0" width="100%" border="0" style="cellspacing:0;color:#000000;font-family:Open Sans;font-size:18px;line-height:22px;table-layout:auto;width:100%;">
+                        <tbody>
+                          <tr>
+                            <td width="250px">
+                              <p style="font-weight: 600; margin: 0 0 0;">Compañia : </p>
+                            </td>
+                            <td>
+                              <p style="margin: 0 0 0;"> {CompanyName} </p>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td width="250px">
+                              <p style="font-weight: 600; margin: 3 0 0;">Usuario : </p>
+                            </td>
+                            <td>
+                              <p style="margin: 1 0 0;"> {UserName} </p>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td width="250px">
+                              <p style="font-weight: 600; margin: 0 0 0;">Teléfono : </p>
+                            </td>
+                            <td>
+                              <p style="margin: 1 0 0;"> {Phone} </p>
+                            </td>
+                          </tr>
+                           <tr>
+                            <td width="250px">
+                              <p style="font-weight: 600; margin: 0 0 0;">Correo : </p>
+                            </td>
+                            <td>
+                              <p style="margin: 1 0 0;"> {Email} </p>
+                            </td>
+                          </tr>
+                             <tr>
+                            <td width="250px">
+                              <p style="font-weight: 600; margin: 0 0 0;">Giro : </p>
+                            </td>
+                            <td>
+                              <p style="margin: 1 0 0;"> {Role} </p>
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left" class="show_on_mobile" style="font-size:0px;padding:10px 25px;word-break:break-word;">
+                      <table cellpadding="0" cellspacing="0" width="100%" border="0" style="cellspacing:0;color:#000000;font-family:Open Sans;font-size:18px;line-height:22px;table-layout:auto;width:100%;">
+                        <tbody>
+                          <tr>
+                            <td>
+                              <p style="font-weight: 600; margin: 3 0 0;">Codigo de la Empresa : </p>
+                              <p style="margin: 3 0 0;"> {CompanyName} </p>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td>
+                              <p style="font-weight: 600; margin: 3 0 0;">Usuario : </p>
+                              <p style="margin: 3 0 0;"> {UserName} </p>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td>
+                              <p style="font-weight: 600; margin: 3 0 0;">Contraseña : </p>
+                              <p style="margin: 3 0 0;"> {Password} </p>
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left" style="font-size:0px;padding:10px 25px;word-break:break-word;">
+                      <div style="font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:13px;line-height:1;text-align:left;color:#000000;">
+                        <p style="margin-top:10px"></p>
+                      </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="center" vertical-align="middle" style="font-size:0px;padding:10px 25px;word-break:break-word;">
+                     <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:separate;line-height:100%;display:none">
+                        <tr>
+                          <td align="center" role="presentation" style="border:none;border-radius:3px;cursor:auto;padding:10px 25px;" valign="middle"> <a href="https://cloud.autoazur.com/ForgotPassword.aspx" style="font-family:Open Sans;font-size:20px;font-weight:500;line-height:120%;Margin:0;text-decoration:none;text-transform:none;color:black" target="_blank">
+            ¿Olvido su contraseña?<span style="color:#007FFF"> Restablecer Contraseña</span>
+            </a> </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="center" style="font-size:0px;padding:10px 25px;word-break:break-word;">
+                      <div style="font-family:Open Sans;font-size:20px;font-weight:500;line-height:1;text-align:center;color:#000000;">
+                        <p style="color:#007FFF;margin:0 0 8;">¿Free counseling?</p>
+                        <p style="font-size: 16px; font-weight:600 ;margin:0 0 8;">Comunicate with us.</p>
+                        <p style="font-size: 16px;margin:0 0 8;">Phone: (01 55) 9596-5798</p>
+                        <p style="font-size: 16px;margin:0 0 8;"> Chat: <a href="https://www.autoazur.com/" style="color:#007FFF;">www.autoazur.com</a> </p>
+                        <p style="font-size: 16px;margin:0 0 8;"> Mail: <a href="mailto:soporte@autoazur.com" style="color:#007FFF;">soporte@autoazur.com</a> </p>
+                      </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="center" style="font-size:0px;padding:10px 25px;word-br eak:break-word;">
+                      <div style="font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:13px;line-height:1;text-align:center;color:#000000;"> <a href="https://www.facebook.com/autoazuroficial/">
+          	<img style="width:50px" src="https://cdn.freebiesupply.com/logos/large/2x/facebook-3-logo-png-transparent.png"/>
+          </a> </div>
+                    </td>
+                  </tr>
+                </table>
+              </div>
+              <!--[if mso | IE]>
+            </td>
+          
+        </tr>
+      
+                  </table>
+                <![endif]-->
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <!--[if mso | IE]>
+          </td>
+        </tr>
+      </table>
+      <![endif]-->
+  </div>
+</body>
+
+</html>

@@ -1,0 +1,20 @@
+{
+  "profiles": {
+    "AutoAzureMob-Dev": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7124",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    },
+    "AutoAzureMob-Prod": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7124",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Production"
+      }
+    }
+  }
+}

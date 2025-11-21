@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.0.11205.157 d18.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoAzureMob.API", "AutoAzureMob.API\AutoAzureMob.API.csproj", "{2D026BA3-B377-46C3-9E0A-BF03C4BF745C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoAzureMob.BLL", "AutoAzureMob.BLL\AutoAzureMob.BLL.csproj", "{61846AF3-0D80-4DDB-8674-09E8F1D197F0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoAzureMob.DAL", "AutoAzureMob.DAL\AutoAzureMob.DAL.csproj", "{E0F76F12-8A3C-42D0-AAC7-A504D1863C93}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoAzureMob.Models", "AutoAzureMob.Models\AutoAzureMob.Models.csproj", "{916B146F-7D9D-4B96-8C88-21A7C105B285}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoAzureMob.Core", "AutoAzureMob.Core\AutoAzureMob.Core.csproj", "{71D3D54C-2CD5-4A99-A233-AE099F291200}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoAzureMob.QueryResource", "AutoAzureMob.QueryResource\AutoAzureMob.QueryResource.csproj", "{23A0A5F0-6A78-48A5-98E7-FAEF3CF0918F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D026BA3-B377-46C3-9E0A-BF03C4BF745C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D026BA3-B377-46C3-9E0A-BF03C4BF745C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D026BA3-B377-46C3-9E0A-BF03C4BF745C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D026BA3-B377-46C3-9E0A-BF03C4BF745C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61846AF3-0D80-4DDB-8674-09E8F1D197F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61846AF3-0D80-4DDB-8674-09E8F1D197F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61846AF3-0D80-4DDB-8674-09E8F1D197F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61846AF3-0D80-4DDB-8674-09E8F1D197F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0F76F12-8A3C-42D0-AAC7-A504D1863C93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0F76F12-8A3C-42D0-AAC7-A504D1863C93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0F76F12-8A3C-42D0-AAC7-A504D1863C93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0F76F12-8A3C-42D0-AAC7-A504D1863C93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{916B146F-7D9D-4B96-8C88-21A7C105B285}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{916B146F-7D9D-4B96-8C88-21A7C105B285}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{916B146F-7D9D-4B96-8C88-21A7C105B285}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{916B146F-7D9D-4B96-8C88-21A7C105B285}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71D3D54C-2CD5-4A99-A233-AE099F291200}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71D3D54C-2CD5-4A99-A233-AE099F291200}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71D3D54C-2CD5-4A99-A233-AE099F291200}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71D3D54C-2CD5-4A99-A233-AE099F291200}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23A0A5F0-6A78-48A5-98E7-FAEF3CF0918F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23A0A5F0-6A78-48A5-98E7-FAEF3CF0918F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23A0A5F0-6A78-48A5-98E7-FAEF3CF0918F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23A0A5F0-6A78-48A5-98E7-FAEF3CF0918F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BB23E63-93D5-485D-B373-7F3A81AAC62E}
+	EndGlobalSection
+EndGlobal
